@@ -445,8 +445,20 @@ input[type=text]::placeholder{
   flex-wrap: wrap;
 }
 .form-control {
-  width: fit-content;
+  width: fit-content !important;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
+input[type=text]::placeholder{
+  text-align: center;
+  justify-content: center;
+ }
+ input[type=email]::placeholder{
+  text-align: center;
+  justify-content: center;
+ }
 .social-links {
   display: flex;
   justify-content: center;
