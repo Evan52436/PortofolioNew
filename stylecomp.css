@@ -255,7 +255,8 @@ hr {
   font-weight: 800;
   font-size: 14pt;
   color: white;
-  background-color: #1b1b1b;
+  background-color: #83a3ca;
+  border-color: #83a3ca;
 }
 
 .btnme:hover {
@@ -311,7 +312,7 @@ margin-right: 5px;
   margin-bottom: 10px;
   border: none;
   border-radius: 3px;
-  border-bottom: 3px solid rgb(82, 194, 255);
+  border-bottom: 3px solid #83a3ca;
   background-color: rgb(13, 13, 13);
   color: white;
 }
