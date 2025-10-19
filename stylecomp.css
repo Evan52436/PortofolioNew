@@ -515,7 +515,7 @@ input[type=text]::placeholder{
       right: -100% !important;
       width: 280px !important;
       height: 100vh !important;
-      background: rgba(0, 0, 0, 0.90) !important;
+      background: rgba(130, 162, 201, 0.70) !important;
       backdrop-filter: blur(10px) !important;
       flex-direction: column !important;
       justify-content: left !important;
