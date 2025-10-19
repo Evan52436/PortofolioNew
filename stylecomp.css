@@ -442,6 +442,7 @@ input[type=text]::placeholder{
 .form-group {
   display: flex;
   justify-content: center;
+  width: auto;
 }
 .social-links {
   display: flex;
@@ -463,7 +464,7 @@ input[type=text]::placeholder{
   margin-top: 10px;
  }
  .detailmine {
-  padding: 0 30px;
+  padding: 0 10px 30px 30px;
  }
  .ACTUALIMAGE {
   display: flex;
