@@ -503,7 +503,7 @@ input[type=text]::placeholder{
       position: fixed !important;
       top: 1rem !important;
       left: 1rem !important;  /* Change from 'right' to 'left' */
-      /* right: 74% !important; */
+      right: 74% !important;
       background-color: none !important;
       border: none !important;
   }
